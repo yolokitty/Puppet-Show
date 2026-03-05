@@ -1,9 +1,3 @@
-/*
- * button.h
- *
- *  Created on: 2026. 1. 23.
- *      Author: junwoo
- */
 
 #ifndef INC_BUTTON_H_
 #define INC_BUTTON_H_
