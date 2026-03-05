@@ -1,9 +1,4 @@
-/*
- * bt.c
- *
- *  Created on: Jan 28, 2026
- *      Author: appletea
- */
+
 #include "bt.h"
 
 uint8_t rxData[10];
