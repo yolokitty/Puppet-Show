@@ -1,9 +1,4 @@
-/*
- * fnd.h
- *
- *  Created on: Jan 29, 2026
- *      Author: appletea
- */
+
 
 #ifndef INC_FND_H_
 #define INC_FND_H_
