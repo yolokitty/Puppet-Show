@@ -1,9 +1,3 @@
-/*
- * fan.c
- *
- *  Created on: Jan 28, 2026
- *      Author: appletea
- */
 
 #include "fan.h"
 
