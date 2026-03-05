@@ -1,11 +1,3 @@
-///*
-// * fnd.c
-// *
-// *  Created on: Jan 29, 2026
-// *      Author: appletea
-// */
-//
-//
 
 #include "fnd.h"
 
