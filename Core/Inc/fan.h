@@ -1,9 +1,3 @@
-/*
- * fan.h
- *
- *  Created on: Jan 28, 2026
- *      Author: appletea
- */
 
 #ifndef INC_FAN_H_
 #define INC_FAN_H_
