@@ -1,0 +1,10 @@
+../Core/Src/fnd.c:57:13:Seg_Write	3
+../Core/Src/fnd.c:70:13:Dig_AllOff	2
+../Core/Src/fnd.c:80:13:Dig_On	1
+../Core/Src/fnd.c:88:20:tiny_delay	2
+../Core/Src/fnd.c:95:6:FND_ScanOnce	1
+../Core/Src/fnd.c:115:6:DAY_1	1
+../Core/Src/fnd.c:123:6:DAY_2	1
+../Core/Src/fnd.c:131:6:DAY_3	1
+../Core/Src/fnd.c:139:6:DAY_4	1
+../Core/Src/fnd.c:150:6:FND_CONTROL	7
