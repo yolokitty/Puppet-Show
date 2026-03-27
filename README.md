@@ -1,6 +1,6 @@
 ### 📘 프로젝트 상세 설명
 
-👉 [![Notion](https://img.shields.io/badge/Notion-설명%20바로가기-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31a45465d271806881c2efe158098156)
+    [![Notion](https://img.shields.io/badge/Notion-설명%20바로가기-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31a45465d271806881c2efe158098156)
 
 
 • **스마트 무대장치 시스템**
