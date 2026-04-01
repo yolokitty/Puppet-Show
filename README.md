@@ -2,12 +2,14 @@
 
 &nbsp;&nbsp;&nbsp;[![Notion](https://img.shields.io/badge/Notion-설명%20바로가기-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31a45465d271806881c2efe158098156)
 
+---
 
 • **스마트 무대장치 시스템**
 
 Servo Motor를 활용한 회전 기능과 버튼 입력 기반 속도 제어 기능을 포함한 선풍기 제어 시스템을 구현하였다.   
 LED와 FND를 통해 동작 상태를 시각적으로 표현하고, 안정적인 입력 처리를 통해 사용자 제어 신뢰성을 확보하였다.
 
+---
 
 **세부 기능**
 
@@ -20,6 +22,7 @@ Servo Motor 기반 회전 기능 구현
 LED 및 FND를 활용한 상태 표시  
 → 현재 속도 및 동작 상태 시각화  
 
+---
 
 **문제점 및 개선**
 
